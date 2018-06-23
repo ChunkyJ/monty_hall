@@ -1,0 +1,15 @@
+"""
+class: lets make a deal
+
+Methods:
+display current status of the game - void
+ask user for input - void
+display a "zonk" - void
+ask user to change his decesion - void
+tell user if he has won the game.- boolean
+
+Member variables:
+User's choice - int
+Door option - list of ints
+
+"""
